@@ -30,10 +30,10 @@
 #  headers:
 #    Authorization: "Bearer <your-token>"
 
-graphql:
-  annotations:
-    base-package: com.github.alexandrenavarro. # required
-    always-prettify: true #true is the default value, no need to specify it
+#graphql:
+#  annotations:
+#    base-package: com.github.alexandrenavarro. # required
+#    always-prettify: true #true is the default value, no need to specify it
 
 #altair:
 #  mapping: /altair
