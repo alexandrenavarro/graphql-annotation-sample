@@ -7,7 +7,7 @@ import lombok.*;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class Post {
+public class Post implements PostInterface1, PostInterface2 {
 
     private Long id;
     private String text;
